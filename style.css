@@ -42,7 +42,7 @@ input{
     overflow: auto;
 }
 .message-container div{
-    color:#ffffff;
+    color:pink;
     margin: 5px;
     padding: 2px;
     border-radius: 10px;
